@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/lhc/Library/Caches/pypoetry/virtualenvs/testit-poetry-uzOe0O8P-py3.8",
+  "python.testing.pytestArgs": ["tests"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true
+}
