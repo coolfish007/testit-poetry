@@ -50,7 +50,7 @@ typed-ast = ">=1.4.0"
 d = ["aiohttp (>=3.3.2)", "aiohttp-cors"]
 
 [[package]]
-category = "dev"
+category = "main"
 description = "Composable command line interface toolkit"
 name = "click"
 optional = false
@@ -221,7 +221,7 @@ python-versions = "*"
 version = "0.1.9"
 
 [metadata]
-content-hash = "0bce687ad603d8cc44ef3f511c042876a1e3c6f0724eb103e86bc9ff6c8c7657"
+content-hash = "a2a51f4b06a22983a1386f9a07f06023f22bfc891b1920297c0eceb33818183f"
 python-versions = "^3.8"
 
 [metadata.files]

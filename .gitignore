@@ -1,2 +1,5 @@
 __pycache__
-
+depends
+dist
+*.gz
+requirements.txt

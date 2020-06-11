@@ -6,6 +6,7 @@ authors = ["coolfish007 <liuhongchen@idatagz.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+click = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
@@ -15,3 +16,6 @@ black = "^19.10b0"
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
+
+# [tool.poetry.scripts]
+# testit_poetry = "testit_poetry.console:main"

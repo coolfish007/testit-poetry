@@ -1,6 +1,7 @@
 README.rst
 setup.py
 testit_poetry/__init__.py
+testit_poetry/console.py
 testit_poetry.egg-info/PKG-INFO
 testit_poetry.egg-info/SOURCES.txt
 testit_poetry.egg-info/dependency_links.txt
